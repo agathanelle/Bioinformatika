@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="1640" height="927" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="stroke:black;fill:lightgreen" transform="translate(30,30)">
+<line x1="980" y1="439" x2="835" y2="583" style="stroke:blue; stroke-width:1"/>
+<line x1="835" y1="583" x2="812" y2="549" style="stroke:blue; stroke-width:1"/>
+<line x1="812" y1="549" x2="812" y2="179" style="stroke:blue; stroke-width:1"/>
+<line x1="812" y1="549" x2="759" y2="527" style="stroke:blue; stroke-width:1"/>
+<line x1="759" y1="527" x2="254" y2="22" style="stroke:blue; stroke-width:1"/>
+<line x1="759" y1="527" x2="375" y2="527" style="stroke:blue; stroke-width:1"/>
+<line x1="835" y1="583" x2="833" y2="600" style="stroke:blue; stroke-width:1"/>
+<line x1="833" y1="600" x2="603" y2="831" style="stroke:blue; stroke-width:1"/>
+<line x1="833" y1="600" x2="890" y2="684" style="stroke:blue; stroke-width:1"/>
+<line x1="890" y1="684" x2="890" y2="873" style="stroke:blue; stroke-width:1"/>
+<line x1="890" y1="684" x2="922" y2="697" style="stroke:blue; stroke-width:1"/>
+<line x1="922" y1="697" x2="1042" y2="817" style="stroke:blue; stroke-width:1"/>
+<line x1="922" y1="697" x2="1234" y2="697" style="stroke:blue; stroke-width:1"/>
+<text x="979" y="440" font-weight = "10" font-family="verdana" fill="black" font-size="18">Escherichia</text>
+<text x="806" y="178" font-weight = "10" font-family="verdana" fill="black" font-size="18">Cellulophaga</text>
+<text x="242" y="23" font-weight = "10" font-family="verdana" fill="black" font-size="18">Lactococcus</text>
+<text x="361" y="534" font-weight = "10" font-family="verdana" fill="black" font-size="18">Variolavirus</text>
+<text x="591" y="843" font-weight = "10" font-family="verdana" fill="black" font-size="18">Coronavirus</text>
+<text x="884" y="888" font-weight = "10" font-family="verdana" fill="black" font-size="18">Herpesvirus</text>
+<text x="1041" y="830" font-weight = "10" font-family="verdana" fill="black" font-size="18">Streptococcus</text>
+<text x="1236" y="704" font-weight = "10" font-family="verdana" fill="black" font-size="18">Adenovirus</text>
+</g></svg>
